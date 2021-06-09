@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "New",
+      "description": "New",
+      "id": 1
+    },
+    {
+      "title": "My second stream",
+      "description": "Hello gues",
+      "id": 2
+    },
+    {
+      "title": "My Fourth Stream",
+      "description": "I made it !!! AGAIN !!!",
+      "userId": "105973915628778193855",
+      "id": 4
+    },
+    {
+      "title": "My Fifth element stream!",
+      "description": "Refactored Stream !!!!",
+      "id": 5
+    },
+    {
+      "title": "wadawdwa",
+      "description": "dwadwadaw",
+      "userId": "105973915628778193855",
+      "id": 6
+    }
+  ]
+}
